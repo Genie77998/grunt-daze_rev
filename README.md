@@ -1,4 +1,4 @@
-# grunt-dazeRev
+# grunt-daze_rev
 
 > 文件添加MD5戳
 
